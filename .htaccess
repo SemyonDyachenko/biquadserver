@@ -1,0 +1,5 @@
+Access-Control-Allow-Origin: http://localhost:3000/msg
+Accept application/json
+X-Requested-With XMLHttpRequest
+Access-Control-Allow-Methods  GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Request-Headers:access-control-allow-origin, content-type
