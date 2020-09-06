@@ -13,8 +13,8 @@ const telegramOptions = {
 };
 
 
-const telegram_token = "1235548446:AAH32cCdE4W4D51GiUBGFE2XDI2mK_UanNU";
-const vk_token = "2e089ea3e5f8db918c72ea5c2e86e00000000000000002d091958c44e46ebe888999133c1686faa8c10b2";
+const telegram_token = "here token";
+const vk_token = "here token";
 
 const express = require('express');
 const bodyParser = require('body-parser');
